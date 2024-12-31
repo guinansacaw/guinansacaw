@@ -8,7 +8,7 @@ I really like coding, storytelling, and data viz. This is an entirely new world 
 
 ## 🐦 Do not forget 🐦
 - 💬 Ask me about anything and if you have some feedback, you're welcome!
-- 📫 How to reach me: guinansacaw@gmail.com
+- 🌐 Check out my Web Portfolio: https://guinansacaw.github.io/
 
 
 <!--
